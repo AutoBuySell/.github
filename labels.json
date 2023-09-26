@@ -1,0 +1,47 @@
+[
+  {
+    "name": "FEAT",
+    "color": "F9D0C4",
+    "description": "New feature or request"
+  },
+  {
+    "name": "BUG",
+    "color": "FBCA04",
+    "description": "Something isn't working"
+  },
+  {
+    "name": "CHORE",
+    "color": "B6EB94",
+    "description": "Something not important"
+  },
+  {
+    "name": "SETTING",
+    "color": "435546",
+    "description": "Environment setting"
+  },
+  {
+    "name": "REFACTOR",
+    "color": "1D76DB",
+    "description": "Improvement of readability and reusability"
+  },
+  {
+    "name": "HOTFIX",
+    "color": "D93F0B",
+    "description": "Fatal issue after release"
+  },
+  {
+    "name": "P0",
+    "color": "C5DEF5",
+    "description": "Top priority"
+  },
+  {
+    "name": "P1",
+    "color": "5D0E0A",
+    "description": "Major priority"
+  },
+  {
+    "name": "P2",
+    "color": "B5F5FA",
+    "description": "Minor priority"
+  }
+]
