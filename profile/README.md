@@ -2,7 +2,7 @@
 Please follow the instructions below to get an automated trading service on your local environment.
 ## Installation
 1. Make a project folder on your local machine
-    1. **Windows10** and **MacOS Ventura** have proved to be acceptable OS
+    1. **Windows10** and **MacOS Ventura** have been proved to be acceptable OSs
 2. Following 3 repositories below should be placed in the project folder
     1. [Frontend server](https://github.com/AutoBuySell/AT_V0) which controls the other servers and shows the result logs
     2. [Backend server](https://github.com/AutoBuySell/Backend_server) which processes the overall services requested
